@@ -1,0 +1,8 @@
+homework 2 
+variables: sirve para guardar informacion, la cual se puede utilizar mas tarde o para alguna multiplicacion 
+strings: los strings son normalmente los que se ponen en comilla, los numero no se suman se juntan al igual que las palabras 
+funciones: las funciones van entre llaves y sirven para dar informacion mas larga con codigos mas cortos 
+           *Argumentos: trabaja con las variables y ayuda a crear frases o sumas 
+           *return: finaliza el proceso de la funcion, y lo devuelve a la funcion 
+declaraciones: trabja con las funciones ayudando a explicar un control de flujo, como algo logico, como decir (si) el/ella, puede o no, etc.
+valores booleanos: sirve para falso o verdadero con palabras o frases que pongamos 

@@ -1,0 +1,2 @@
+homework 04
+Arrays: reservamos un espacio de nuestro codigo, lo podemos iniciar con elementos que son numero o palabras. 

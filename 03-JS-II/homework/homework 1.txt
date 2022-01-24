@@ -1,0 +1,5 @@
+homework 1 
+For: es un bucle, se repite una y otra vez en un determinado numero de veces.
+&&: evalua de izquierda a derecha, como algo logico, diciendo true o false operador AND
+||: evalua de izquierda a derecha, como algo logico, diciendo true o false, operador OR
+!: 
