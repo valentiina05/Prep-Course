@@ -1,0 +1,7 @@
+homework 05
+objetos: es como un contenedor o una cajita donde se guardan donde se guarda una propiedad con un nombre y un valor y en estas se pueden definir con caracteristicas
+propiedades: son nombres y valores para poder definir un objeto de mejor manera  
+metodos: es un objeto de referencia, una funcion en la propiedad
+bucle for: se repite una y otra vez las veces que nosotros querramos 
+bucle in: se petite una y otra vez devolviendo true (verdadero) o false (falso)
+notacion de puntos vs notacion de corchetes: son para acceder a porpiedades de un objeto con puntos o corchetes 
