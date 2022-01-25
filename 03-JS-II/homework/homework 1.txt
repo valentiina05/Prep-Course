@@ -2,4 +2,4 @@ homework 1
 For: es un bucle, se repite una y otra vez en un determinado numero de veces.
 &&: evalua de izquierda a derecha, como algo logico, diciendo true o false operador AND
 ||: evalua de izquierda a derecha, como algo logico, diciendo true o false, operador OR
-!: 
+!: El signo de exclamación hace que cualquier función siempre devuelva un valor booleano como true o false. El valor final es la negación del valor devuelto por la función.
