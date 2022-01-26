@@ -1,0 +1,2 @@
+homework 07
+funciones callback: sirve para pasar una funcion a un argumento creando otra funcion, se pueden guardar y llamar en cualquier momento
