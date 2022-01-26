@@ -3,10 +3,10 @@ body {
 }
 
 p {
-  color: blue;
+  color: rgba(255, 0, 13, 0.884);
   font-size: 30px;
 }
 
 .amarillo {
-  color: yellow;
+  color: rgb(187, 250, 229);
 }
