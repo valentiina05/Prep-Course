@@ -1,0 +1,3 @@
+homework 06
+prototype: Los prototipos trabajan con los objetos, siendo la especificacion de este, ejem: audi (prototipo: car)
+constructor de clases: los constructor son para llamar una funcion como una plantilla para que el objeto ya sea especificamente uno
